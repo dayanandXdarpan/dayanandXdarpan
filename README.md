@@ -12,30 +12,44 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://your-portfolio-url.com/">
-    <img src="./assets/github-banner.png" alt="Dayanand's Banner" width="100%">
+    <img src="./assets/banner.png" alt="Dayanand's Banner" width="100%">
   </a>
 </p>
 
 <!-- Profile Metrics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayanandXdarpan&color=FFD700&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <a href="https://github.com/dayanandXdarpan?tab=followers">
-    <img src="https://img.shields.io/github/followers/dayanandXdarpan?style=flat-square&logo=github&logoColor=white&color=FFD700" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/dayanandXdarpan?tab=stars">
-    <img src="https://img.shields.io/github/stars/dayanandXdarpan?style=flat-square&logo=github&logoColor=white&color=FFD700" alt="GitHub Stars"/>
-  </a>
-</p>
+<div  align="center">
+    <img src="https://komarev.com/ghpvc/?username=dayanandXdarpan&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/dayanandXdarpan?tab=followers">
+      <img src="https://custom-icon-badges.demolab.com/github/followers/dayanandXdarpan?style=for-the-badge&logo=github&color=C000FF&logoColor=white" alt="GitHub followers"/>
+   
+  </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<table>
+  <tr>
+    <td style="vertical-align: middle;"> <!-- Center text vertically -->
+      <h2>📖 About Me</h2>
+      <p>
+        I’m a <strong>Full-Stack Developer</strong> & <strong>AI Enthusiast</strong>, passionate about creating impactful, scalable solutions.  
+      </p>
+      <ul>
+        <li>💻 <strong>Expert in:</strong> Modern Web Technologies, Cloud & AI</li>
+        <li>🚀 <strong>Building AI-driven automation tools</strong></li>
+        <li>🎯 <strong>Goal:</strong> Build a sustainable <strong>tech startup</strong> by 2026</li>
+        <li>🤝 Open to collaborations on <strong>AI/ML & Open Source projects</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: middle;"> <!-- Center image vertically -->
+      <a href="https://your-portfolio-url.com">
+        <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="200" style="max-height: 200px; height: auto;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 📖 About Me  
-I’m a **Full-Stack Developer** & **AI Enthusiast**, passionate about creating impactful, scalable solutions.  
-- 💻 **Expert in:** Modern Web Technologies, Cloud & AI  
-- 🚀 **Building AI-driven automation tools**  
-- 🎯 **Goal:** Build a sustainable **tech startup** by 2026  
-- 🤝 Open to collaborations on **AI/ML & Open Source projects**  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
