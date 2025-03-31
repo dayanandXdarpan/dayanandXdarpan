@@ -57,6 +57,8 @@ I’m a **Full-Stack Developer** & **AI Enthusiast**, passionate about creating 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dayanandXdarpan&theme=react-dark&bg_color=1C2526&color=D3D3D3&line=1E90FF&point=FFD700" alt="Contribution Graph" width="80%"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <table>
     <tr>
