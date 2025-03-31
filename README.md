@@ -12,7 +12,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://your-portfolio-url.com/">
-    <img src="./assets/github-banner.jpg.png" alt="Dayanand's Banner" width="100%">
+    <img src="./assets/github-banner.png" alt="Dayanand's Banner" width="100%">
   </a>
 </p>
 
