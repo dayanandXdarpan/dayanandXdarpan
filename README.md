@@ -111,6 +111,24 @@
 </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0; padding: 20px; background-color: #f4f4f9; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <!-- Left Box -->
+  <div style="flex: 1; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #ffffff; text-align: left;">
+    <h2 style="font-size: 1.5rem; margin-bottom: 10px;">About Me</h2>
+    <p>Welcome to my portfolio! I'm passionate about technology, web development, and building impactful projects. Let's connect and collaborate!</p>
+  </div>
+
+  <!-- Right Box -->
+  <div style="flex: 1; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #ffffff; text-align: center;">
+    <h2 style="font-size: 1.5rem; margin-bottom: 10px;">Connect with Me</h2>
+    <a href="https://www.linkedin.com/in/dayanand-darpan" target="_blank" style="display: inline-block; margin-top: 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="width: 150px;">
+    </a>
+  </div>
+</div>
+
+
 <h2 style="font-family: 'Montserrat', sans-serif; font-weight: 900; color: #FFFFFF; margin: 20px 0;">
     Made with ❤️ by Darpan
   </h2>
